@@ -2,6 +2,7 @@ import React from "react";
 import { hot } from 'react-hot-loader/root';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Footer from './Footer/Footer.jsx';
 
 class App extends React.Component {
   render() {
@@ -14,6 +15,7 @@ class App extends React.Component {
         <button type="button" class="btn btn-primary">
           This is a bootstrap button
         </button>
+        <Footer />
       </>
     );
   }
