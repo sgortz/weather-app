@@ -3,7 +3,7 @@ import { BsGithub } from 'react-icons/bs';
 import './Footer.css';
 
 const Footer = () => (
-  <footer className='footer'>
+  <footer className="footer">
     <BsGithub />{" "}
       <a
         href="https://github.com/sgortz/weather-app"
