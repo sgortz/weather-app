@@ -8,7 +8,7 @@ import Card from 'react-bootstrap/Card';
 import Header from './components/Header/Header.jsx';
 import SearchForm from './components/SearchForm/SearchForm.jsx';
 import CurrentWeather from './components/CurrentWeather/CurrentWeather.jsx';
-import ForecastWeek from './components/ForecastWeek/ForecastWeek.jsx';
+import ForecastWeek from './components/ForecastWeather/ForecastWeather.jsx';
 import Footer from './components/Footer/Footer.jsx';
 import "./styles.css";
 
